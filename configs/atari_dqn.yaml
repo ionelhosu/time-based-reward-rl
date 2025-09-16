@@ -1,0 +1,6 @@
+env_id: GravitarNoFrameskip-v4
+total_steps: 2000000
+beta: 0.1
+kappa: 500.0
+lambda: 0.5
+delta: 0.5

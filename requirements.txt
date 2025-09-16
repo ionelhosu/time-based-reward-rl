@@ -1,0 +1,5 @@
+torch
+numpy
+gymnasium
+gymnasium[atari,accept-rom-license]
+opencv-python
